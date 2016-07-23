@@ -22,6 +22,7 @@ body {
   border: 1px solid #3F0C1F;
   overflow: hidden;
 }
-#menu-tile{
-	padding-top: 0;
+h1,h3{
+	padding-top: 50px; 
+	margin-top: -50px;
 }
